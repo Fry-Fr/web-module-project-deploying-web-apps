@@ -75,12 +75,13 @@ const ImgWrp = styled.div`
         p {
             text-align: left;
             width: 95%;
-            padding: .5rem 0;
-            margin-left: .5rem;
+            padding: .5rem 1.5rem;
+            margin-left: 1rem;
         }
         img {
             width: 95%;
             height: auto;
+            margin: .5rem auto auto;
         }
     }
 `
